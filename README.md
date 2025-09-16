@@ -1,4 +1,4 @@
-# Little_Tail_Story_Logo_Vector_&_Fan-Made_English_Version
+# Little_Tail_Story_Logo_Vector_And_Fan-Made_English_Version
 The image files contained within this repository are vector images I made of the logo from Little Tail Story, a Japan-exclusive mobile game that is now offline. 
 The aforementioned game was published by Bandai Namco, developed by CyberConnect2, and is part of the larger Little Tail Bronx world/lore. 
 I have also took it upon myself to create an English version of the logo while trying to retain elements of the original Katakana logo. 
